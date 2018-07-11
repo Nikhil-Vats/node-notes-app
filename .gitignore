@@ -1,0 +1,5 @@
+playground/
+node_modules/
+package-lock.json
+notes1.js
+app1.js
